@@ -9,13 +9,6 @@ Welcome to my GitHub! I'm a passionate Computer Science student and software dev
 - **Competitive Programming:** Codeforces, LeetCode, AtCoder
 - **Software Engineering:** Backend Systems, Security (RBAC), Problem Solving
 
-## 🌟 Featured Projects
-
-- [InsightIQ Chatbot API](https://github.com/Jobairshi/InsightIQ-Chatbot-API) – Advanced chatbot API using AI and NLP techniques.
-- [POSE-ESTIMATE](https://github.com/Jobairshi/POSE-ESTIMATE) – Computer vision project for human pose estimation.
-- [RBAC](https://github.com/Jobairshi/RBAC) – Secure and scalable Role-Based Access Control system.
-- [Samsung Mobile](https://github.com/Jobairshi/Samsung_Mobile) – Innovative mobile application project.
-
 ## 🌐 Connect with Me
 
 - 📧 Email: jobair.uddin.jesan@gmail.com
